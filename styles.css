@@ -1,0 +1,43 @@
+body {
+    background-color: grey;
+    color: black;
+    font-family: sans-serif, 'Arial Narrow Bold';
+}
+
+#main {
+    margin: 5px 15px 5px 15px;
+}
+
+#title {
+    text-align: center;
+    color: rgb(255, 182, 194);
+}
+
+h1 {
+    text-align: center;
+    box-shadow: 10px 10px 5px black;
+}
+
+#img-div {
+    text-align: center;
+}
+
+#img-caption {
+    font-size: smaller;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+img {
+    max-width: 692px;
+    max-height: 720px;
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 1px;
+    border: 2.5px solid rgb(255, 182, 194);
+    box-shadow: 10px 10px 5px black;
+    transform: rotate(1deg);
+  }
+  
